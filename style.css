@@ -1,0 +1,20 @@
+:root {
+    /* Primary brand color: Used for headers, active tabs, primary buttons */
+    --primary-color: #2A4D9B;
+  
+    /* Secondary color: Used for hover states, secondary buttons, links */
+    --secondary-color: #5E81F4;
+  
+    /* Accent color: Draw attention to key actions (e.g., 'Add Transaction') */
+    --accent-color: #FFC24B;
+  
+    /* Neutral palette for backgrounds, borders, text */
+    --neutral-100: #F8FAFC; /* Background base */
+    --neutral-200: #E2E8F0; /* Cards, inputs */
+    --neutral-700: #334155; /* Primary text */
+  
+    /* Financial semantics */
+    --success-color: #22C55E; /* Positive trends, success messages */
+    --warning-color: #FACC15; /* Caution, budget warning */
+    --error-color: #EF4444;   /* Errors, overspending, validation issues */
+  }
